@@ -18,6 +18,6 @@ CUSTOMER SECTION
 
 ![customer dashboard 2 map section](https://github.com/amalanto1611/near_shop_test/assets/145443897/f31418e2-dbec-4eb9-b5d9-1e21f5cc4264)
 ![customer finding nearest shop](https://github.com/amalanto1611/near_shop_test/assets/145443897/26de6331-3578-4900-a042-002235919482)
-![actual customer can find nearest shops  ](https://github.com/amalanto1611![users table ](https://github.com/amalanto1611/near_shop_test/assets/145443897/a18890c7-5b55-4c1e-bb1d-181246e2e480)
+![actual customer can find nearest shops  ]
 /near_shop_test/assets/145443897/d77f281f-6e41-4f3e-ade7-98d3b5d372e6)
 ![shops table ](https://github.com/amalanto1611/near_shop_test/assets/145443897/e3adbe05-aca5-46f9-9ec3-4e1f91a74cb3)
