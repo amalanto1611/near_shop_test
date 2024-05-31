@@ -13,15 +13,17 @@ class Logincontroller extends Controller
     {
         return view('login.index');
     }
+
     public function dash()
     {
         $shops = Shops::all();
         return view('login.dashboard', compact('shops'));
     }
+
     public function logout()
     {
-     Auth::logout();
-     return redirect()->route('login');
+        Auth::logout();
+        return redirect()->route('login');
     }
 
     public function check(Request $request)
@@ -45,8 +47,9 @@ class Logincontroller extends Controller
             return redirect()->route('login')->with('error', 'Invalid credentials. Please try again.');
         }
     }
+
     public function search(Request $request)
-{
+    {
     $latitude = $request->input('latitude');
     $longitude = $request->input('longitude');
 
