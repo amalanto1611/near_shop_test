@@ -61,6 +61,10 @@ remaining part of customer
 
 customer can find the nearestshops by oder by  using latitude and longitude it will display in the oder of nearest shop sututed in given latitude and longitude
 
-/near_shop_test/assets/145443897/d77f281f-6e41-4f3e-ade7-98d3b5d372e6)
+localhost database table details of shops
 
 ![shops table ](https://github.com/amalanto1611/near_shop_test/assets/145443897/e3adbe05-aca5-46f9-9ec3-4e1f91a74cb3)
+
+localhost database table details of user 
+
+![users table ](https://github.com/amalanto1611/near_shop_test/assets/145443897/99277519-1d76-4f05-8e10-a509ec411be7)
