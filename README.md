@@ -3,13 +3,39 @@ ADMIN SECTION
 
 ![Login by admin](https://github.com/amalanto1611/near_shop_test/assets/145443897/6b58dbbd-9f44-4f73-8f96-c355d9ecfd59)
 
- login by admin using admin user name and password it will leads to a window dash board
 
-![Admin Dash board ](https://github.com/amalanto1611/near_shop_test/assets/145443897/55ca2c96-4c96-497b-bd9a-a2ed0fd227be) admin dash board will appear and there have log out button create shop and list of shops edit ad delete ![Admin dashboard 2  remaining part with maps](https://github.com/amalanto1611/near_shop_test/assets/145443897/df643aec-56b0-4a18-ad26-5ed27138b804) admin have the privilage to edit and delete privilage and search option to find nearest shop
-![create shop for admin can only create](https://github.com/amalanto1611/near_shop_test/assets/145443897/67e97988-1e17-4207-b9a8-30ce3fd6e8fa) create shop using name,type of shop ;atitude and longitude and save 
-![shop creation by admin by succes message](https://github.com/amalanto1611/near_shop_test/assets/145443897/ee8f2791-f15e-4d3f-bd07-85b5a01478a3)succes message after creating new shop
+ login by admin using admin user name and password after authentication it will leads to a window dashboard 
+
+
+
+![Admin Dash board ](https://github.com/amalanto1611/near_shop_test/assets/145443897/55ca2c96-4c96-497b-bd9a-a2ed0fd227be) 
+
+
+admin dash board will appear and there have log out button create shop and list of shops edit ad delete admin have the privilage to add,create,edit shops 
+
+
+ ![Admin dashboard 2  remaining part with maps](https://github.com/amalanto1611/near_shop_test/assets/145443897/df643aec-56b0-4a18-ad26-5ed27138b804)
+
+
+ admin have the privilage to edit and delete privilage and also search option to find nearest shop
+
+
+![create shop for admin can only create](https://github.com/amalanto1611/near_shop_test/assets/145443897/67e97988-1e17-4207-b9a8-30ce3fd6e8fa) 
+
+
+create shop using name,type of shop atitude and longitude and save by admin
+
+
+![shop creation by admin by succes message](https://github.com/amalanto1611/near_shop_test/assets/145443897/ee8f2791-f15e-4d3f-bd07-85b5a01478a3)
+
+succes message after creating new shop it will  display on the list of shops in dashboard
+
+
 ![after serach of latitude longitude ](https://github.com/amalanto1611/near_shop_test/assets/145443897/6962bad7-35e1-4b8d-8939-58109ea7b2e6)
-![actual admin search ](https://github.com/amalanto1611/near_shop_test/assets/145443897/1d964e4a-02cd-40ca-95a5-72ade4fd38da) search using latitude and longitude  it will display the neaest shops will list by oder
+![actual admin search ](https://github.com/amalanto1611/near_shop_test/assets/145443897/1d964e4a-02cd-40ca-95a5-72ade4fd38da)
+
+
+ search using latitude and longitude  it will display the neaest shops will list by oder first to last by oder
 
 
 CUSTOMER SECTION
