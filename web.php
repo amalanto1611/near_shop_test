@@ -28,11 +28,13 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('/delete/{id}', [Admincontroller::class, 'deleteshop'])->name('shops.delete');
 
 });
+
 //sign up and log in admin and customer 
 Route::post('/logincheck', [Logincontroller::class, 'check'])->name('login.check');
 Route::get('/login/back', [Logincontroller::class, 'show'])->name('login');
 Route::get('/register', [Customerlogcontroller::class, 'showRegistrationForm'])->name('register');
 Route::post('/register/signup', [Customerlogcontroller::class, 'register'])->name('registersignup');
 //logout route
+
 Route::get('/logout', [LoginController::class, 'logout'])->name('logout');
 
