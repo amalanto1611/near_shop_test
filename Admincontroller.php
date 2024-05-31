@@ -6,19 +6,24 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\ValidationException;
 use Illuminate\Support\Facades\DB;
+
+
 class Admincontroller extends Controller
 {
+
     public function show()
     {
        
             return view('admin.create');
         
     }
+
     public function editshow($id)
     {
              $shop = Shops::findOrFail($id); // Assuming your model name is Shop
              return view('admin.edit', compact('shop'));
     }
+
     public function createshop(Request $request)
     {
         try {
@@ -49,6 +54,7 @@ class Admincontroller extends Controller
             return redirect()->back()->withErrors(['error' => $e->getMessage()])->withInput();
         }
     }
+
     public function updateshop(Request $request, $id)
     {
         try {
@@ -80,8 +86,9 @@ class Admincontroller extends Controller
             return redirect()->back()->withErrors(['error' => $e->getMessage()])->withInput();
         }
     }
+
     public function deleteshop($id)
-{
+    {
     try {
         $shop = Shops::findOrFail($id); // Assuming your model name is Shop
         $shop->delete();
