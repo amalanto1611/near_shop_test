@@ -51,7 +51,6 @@ customer registration using name email password
 
 customer dashboard no privilage of add edit and delete
 
-![shops table ](https://github.com/amalanto1611/near_shop_test/assets/145443897/f2a34dc8-576e-4c5b-81b8-a0831b2eb5ca)
 
 remaining part of customer
 
@@ -60,7 +59,7 @@ remaining part of customer
 
 ![customer finding nearest shop](https://github.com/amalanto1611/near_shop_test/assets/145443897/26de6331-3578-4900-a042-002235919482)
 
-customer can find the nearestshops by oder by  using latitude and longitude 
+customer can find the nearestshops by oder by  using latitude and longitude it will display in the oder of nearest shop sututed in given latitude and longitude
 
 /near_shop_test/assets/145443897/d77f281f-6e41-4f3e-ade7-98d3b5d372e6)
 
